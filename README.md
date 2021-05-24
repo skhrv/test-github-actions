@@ -1,3 +1,4 @@
+[![Node.js CI](https://github.com/skhrv/test-github-actions/actions/workflows/main.yml/badge.svg)](https://github.com/skhrv/test-github-actions/actions/workflows/main.yml) [![Maintainability](https://api.codeclimate.com/v1/badges/f14213ef0a2b7401dbc1/maintainability)](https://codeclimate.com/github/skhrv/test-github-actions/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/f14213ef0a2b7401dbc1/test_coverage)](https://codeclimate.com/github/skhrv/test-github-actions/test_coverage)
 # Unit-тестирование
 
 Используйте функцию `upVersion()`, которую мы написали ранее. Скопируйте её в этот проект, настройте для нее Github Actions с подсчетом Test Coverage и загрузкой отчёта на [codeclimate.com](https://codeclimate.com/).
