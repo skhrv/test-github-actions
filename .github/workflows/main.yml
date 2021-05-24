@@ -22,7 +22,7 @@ jobs:
       uses: actions/setup-node@v2
       with:
         node-version: ${{ matrix.node-version }}
-    - run: make instal-deps
+    - run: make install-deps
 
     - name: Test & publish code coverage
       uses: paambaati/codeclimate-action@v2.7.5
